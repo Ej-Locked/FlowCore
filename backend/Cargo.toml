@@ -1,0 +1,32 @@
+[package]
+name = "FlowCore"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# actix actor runtime
+actix = "0.13"
+
+# web server + actors
+actix-web = "4"
+actix-web-actors = "4"
+
+# async runtime
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
+
+# serialization / logging / misc
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+env_logger = "0.10"
+log = "0.4"
+uuid = { version = "1", features = ["v4"] }
+anyhow = "1.0"
+
+# utilities used in example
+rand = "0.8"
+chrono = { version = "0.4", features = ["serde"] }
+
+
+[[bin]]
+name = "flowcore"
+path = "src/main.rs"

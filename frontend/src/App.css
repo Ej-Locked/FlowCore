@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #f8fafc;
+  color: #111827;
+}
+
+.container {
+  max-width: 1280px;
+  margin: auto;
+  padding: 32px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-top: 6px;
+  margin-bottom: 28px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 28px;
+}
+
+.card {
+  background: white;
+  padding: 22px;
+  border-radius: 14px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.05);
+}
+
+/* Graph card */
+.graph-card {
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-wrapper {
+  flex: 1;
+  margin-top: 12px;
+}
+
+.empty {
+  color: #9ca3af;
+}
+
+/* Side card: make it a column flexbox so footer can stick to bottom */
+.side-card {
+  height: 480px;               /* same visual height as graph */
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* Late events list scrolls within the card */
+.late-list {
+  flex: 1;
+  overflow-y: auto;
+  padding-left: 12px;
+  margin: 6px 0 0 0;
+}
+
+/* Footer form pinned at bottom (margin-top:auto not needed because we used flex + gap) */
+.form-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+/* Inputs + button */
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  box-sizing: border-box;
+}
+
+.btn {
+  margin-top: 6px;
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: #111827;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
